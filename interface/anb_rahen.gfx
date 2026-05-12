@@ -1,0 +1,139 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_casteFluidityBar_100"
+		texturefile = "gfx/interface/casteFluidityBar_100.dds"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_casteFluidityBar_90"
+		texturefile = "gfx/interface/casteFluidityBar_90.dds"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_casteFluidityBar_80"
+		texturefile = "gfx/interface/casteFluidityBar_80.dds"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_casteFluidityBar_70"
+		texturefile = "gfx/interface/casteFluidityBar_70.dds"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_casteFluidityBar_60"
+		texturefile = "gfx/interface/casteFluidityBar_60.dds"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_casteFluidityBar_50"
+		texturefile = "gfx/interface/casteFluidityBar_50.dds"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_casteFluidityBar_40"
+		texturefile = "gfx/interface/casteFluidityBar_40.dds"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_casteFluidityBar_30"
+		texturefile = "gfx/interface/casteFluidityBar_30.dds"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_casteFluidityBar_20"
+		texturefile = "gfx/interface/casteFluidityBar_20.dds"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_casteFluidityBar_10"
+		texturefile = "gfx/interface/casteFluidityBar_10.dds"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_casteFluidityBar_00"
+		texturefile = "gfx/interface/casteFluidityBar_00.dds"
+		loadType = "INGAME"
+	}
+
+	spriteType = {
+		name = "GFX_garden_of_secrets"
+		texturefile = "gfx/interface/garden_of_secrets.dds"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_icon_the_command"
+		texturefile = "gfx//interface//icon_the_command.dds"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_icon_command_war_room_banners"
+		texturefile = "gfx//interface//icon_command_war_room_banners.dds"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_icon_command_army_banner"
+		texturefile = "gfx//interface//icon_command_army_banner.dds"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_icon_command_war_room_banners_wolf_left"
+		texturefile = "gfx//interface//icon_command_war_room_banners_wolf_left.dds"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_icon_command_war_room_banners_wolf_right"
+		texturefile = "gfx//interface//icon_command_war_room_banners_wolf_right.dds"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_icon_command_war_room_banners_boar_left"
+		texturefile = "gfx//interface//icon_command_war_room_banners_boar_left.dds"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_icon_command_war_room_banners_boar_right"
+		texturefile = "gfx//interface//icon_command_war_room_banners_boar_right.dds"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_icon_command_war_room_banners_lion_left"
+		texturefile = "gfx//interface//icon_command_war_room_banners_lion_left.dds"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_icon_command_war_room_banners_lion_right"
+		texturefile = "gfx//interface//icon_command_war_room_banners_lion_right.dds"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_icon_command_war_room_banners_dragon_left"
+		texturefile = "gfx//interface//icon_command_war_room_banners_dragon_left.dds"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_icon_command_war_room_banners_dragon_right"
+		texturefile = "gfx//interface//icon_command_war_room_banners_dragon_right.dds"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_icon_command_war_room_banners_elephant_left"
+		texturefile = "gfx//interface//icon_command_war_room_banners_elephant_left.dds"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_icon_command_war_room_banners_elephant_right"
+		texturefile = "gfx//interface//icon_command_war_room_banners_elephant_right.dds"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_icon_command_war_room_banners_tiger_left"
+		texturefile = "gfx//interface//icon_command_war_room_banners_tiger_left.dds"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_icon_command_war_room_banners_tiger_right"
+		texturefile = "gfx//interface//icon_command_war_room_banners_tiger_right.dds"
+		loadType = "INGAME"
+	}
+}

@@ -1,0 +1,123 @@
+
+# Hi future Anbennar Dev - This is TheForsaken here. If you are here because someone made Gerudian Dynamic Province Names for more provinces around Reveria
+# And then someone else complained that it was really dumb that Reveria got Gerudian names for everything EXCEPT their main region then yea they are right
+# and yes i agree it should be changed. You also have to remove a Scripted Effect called reveria_change_province_names_effect and related tooltip
+
+#Dragon Coast
+122 = "Baynoms"
+126 = "Portnamm"
+129 = "Eldergreen"
+138 = "Reaver's Landing"
+140 = "Stormpoint"
+141 = "Turnwell"
+142 = "Iochand"
+143 = "Carverhold"
+144 = "Manerd"
+145 = "Olmaddit"
+146 = "Baycodds"
+148 = "Manyburrows"
+150 = "Lodan Crags"
+167 = "Royvibobb"
+169 = "Nimscodd"
+170 = "Haighpeck"
+171 = "Tholod"
+172 = "Widdechand"
+173 = "Sildnamm"
+174 = "Sildnoms"
+175 = "Chiddeburd"
+176 = "Lilroy"
+177 = "Oddansbay"
+178 = "Norcamb"
+179 = "Norbit"
+180 = "Adderodd"
+181 = "Ionddammroy"
+182 = "Middanbit"
+183 = "Foddimadd"
+184 = "Moorbobb"
+185 = "Dragonpeaks"
+186 = "Kobilderd"
+187 = "Kobaamdbreck"
+188 = "Coddlil"
+189 = "Deeb Kobilderd"
+190 = "Storm Isles"
+198 = "Oddcodd"
+199 = "Drocodds"
+211 = "Feycombe"
+212 = "Lonevalley"
+213 = "Eaglecrest"
+336 = "Fluddhild"
+345 = "Ooispoddoddod"
+1001 = "Lonely Isle"
+3362 = "Rookraatcloofer"
+3577 = "Lapis Lazuli Cave"
+3998 = "Hidden Pass"
+3999 = "Crossroads"
+4643 = "Undermines"
+4644 = "Wyrmlair"
+4645 = "Dragondepths"
+4646 = "Kobold Pass"
+
+#Lencenor
+110 = "Aelvar"
+111 = "Rosereach"
+112 = "Westport"
+113 = "Deranne"
+121 = "Clearshore"
+
+#Anbennar
+14 = "The Pearls"
+43 = "Pearlsedge"
+46 = "Jewelpoint"
+
+#Alenic Reach
+698 = "Eyegard"
+699 = "Serpentback"
+707 = "Drowned Giant Isles"
+735 = "Seawall"
+736 = "Isle Vroren"
+737 = "Mammoth Hall"
+740 = "Bal Vroren"
+191 = "Brontay Point"
+192 = "Cottersea"
+193 = "Leapdon"
+197 = "Coddoran"
+200 = "Haighbobben"
+694 = "Storm Coast"
+3723 = "Topmanor Grunge"
+
+#Gerudian Coast
+987 = "Giantsmarch"
+989 = "Giant's Tears"
+990 = "Jotunsob"
+
+#Escann
+829 = "Silverdocks"
+830 = "Southgate"
+831 = "South Castonath"
+832 = "Lower Castonath"
+833 = "North Castonath"
+834 = "Sapphirewatch"
+840 = "The North Citadel"
+
+#Dalaire
+924 = "Loubhir"
+949 = "Emulyon"
+950 = "Chéiri"
+1201 = "Dalairevar"
+1203 = "Ambercoast"
+1205 = "Forlorn Isle"
+1207 = "Teirainé"
+2787 = "Stalwart Outpost"
+
+#akasik
+6093 = "Akasik Pass"
+6094 = "Port Fortune"
+6095 = "Trail of Claws"
+
+#Bulwar
+4117 = "Invader's Pass"
+
+#Ocean of the Lost Islands
+3724 = "Hope and Haven"
+3734 = "Chalaal’s Rest"
+3741 = "Furtive Isles"

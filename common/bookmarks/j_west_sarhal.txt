@@ -1,0 +1,21 @@
+bookmark =
+{
+	name = "WEST_SARHAL"
+	desc = "WEST_SARHAL_DESC"
+	date = 1444.11.11
+	
+	center = 5685
+	
+	country = U09	#Gnollakaz
+	country = F60	#Samsumbat
+	country = F62	#Duwarkani
+	country = F69	#Irkorzik
+	country = L06	#Zena
+	country = L04	#Saqraxat
+	country = L36	#Lelanàn
+	country = S98	#Bibyobi
+	
+	easy_country = U09
+	easy_country = F60
+
+}
