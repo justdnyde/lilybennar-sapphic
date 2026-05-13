@@ -17,6 +17,9 @@ country_event = {
 		ai_chance = { factor = 1 }
 
 		change_mana = { amount = 200 }
+		# SUBMOD - easier than changing tech
+		add_adm_power = 600
+		add_dip_power = 600
 	}
 }
 

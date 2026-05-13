@@ -2174,6 +2174,7 @@ naval_ideas = {
 
 	trigger = {
 		primitives = no
+		always = no
 	}
 
 	bonus = {

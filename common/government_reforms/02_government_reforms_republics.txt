@@ -2285,7 +2285,7 @@ technocracy_republic_reform = {
 			culture_group = gnomish
 			culture_group = goblin
 			culture_group = kobold
-			has_institution = manufactories
+			has_institution = global_trade # submod
 			current_age = age_of_revolutions
 			has_reform = technocracy_republic_reform
 		}
@@ -2297,7 +2297,7 @@ technocracy_republic_reform = {
 			culture_group = gnomish
 			culture_group = goblin
 			culture_group = kobold
-			has_institution = manufactories
+			has_institution = global_trade # submod
 			current_age = age_of_revolutions
 		}
 	}
