@@ -2174,7 +2174,7 @@ naval_ideas = {
 
 	trigger = {
 		primitives = no
-		always = no
+		always = no #submod disabling naval ideas
 	}
 
 	bonus = {
