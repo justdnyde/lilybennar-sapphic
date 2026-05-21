@@ -1884,7 +1884,8 @@ artificed_defenses = {
 		full_idea_group = defensive_ideas
 	}
 	
-	artillery_bonus_vs_fort = 2  # 
+	hostile_attrition = 2
+	fort_maintenance_modifier = 0.50
 
 	ai_will_do = {
 		factor = 1.0

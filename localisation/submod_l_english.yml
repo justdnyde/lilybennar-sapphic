@@ -80,7 +80,7 @@
  scrying_revenue_service:0 "Scrying Revenue Service"
  scrying_revenue_service_desc:0 "We won't tell you how much you owe, but if you don't pay the correct amount, we'll break your kneecaps."
  council_of_mages:0 "Council of Mages"
- council_of_mages_desc:0 "You are on this council, but we do not grant you the rank of master. Also, this increases the chance of getting powerful mage heirs."
+ council_of_mages_desc:0 "You are on this council, but we do not grant you the rank of master. Also, this increases the chance of getting powerful mage heirs for some reason."
  
  mages_in_the_court:0 "Mages in the Court"
  desc_mages_in_the_court:0 ""
@@ -145,28 +145,9 @@
  damestear_armor:0 "Damestear Armor"
  desc_damestear_armor:0 ""
  expanded_training_programs:0 "Expanded Training Programs"
- desc_expanded_training_programs:0 "Oh, it's the deep burn. Oh it's so deep. Oh, I can barely lift my right arm 'cause I did so many. I don't know if you heard me counting, I did over a thousand."
+ desc_expanded_training_programs:0 "Oh, it's the deep burn.  Oh it's so deep.  Oh, I can barely lift my right arm 'cause I did so many.  I don't know if you heard me counting, I did over a thousand."
  mage_crusade:0 "Mage's Crusade"
  desc_mage_crusade:0 "Magus vult!"
- aggressive_expansionism:0 "Aggressive Expansionism"
- desc_aggressive_expansionism:0 ""
- increase_vassal_contributions_act:0 "Increased Vassal Contributions Act"
- desc_increase_vassal_contributions_act:0 ""
- tactful_tactics:0 "Tactful Tactics"
- desc_tactful_tactics:0 ""
- field_diplomacy:0 "Field Diplomacy"
- desc_field_diplomacy:0 ""
- gun_diplomacy:0 "Gun Diplomacy"
- desc_gun_diplomacy:0 ""
- specialized_recruitment_act:0 "Specialized Recruitment Act"
- desc_specialized_recruitment_act:0 ""
- dark_woke_rhetoric:0 "Dark Woke Rhetoric"
- desc_dark_woke_rhetoric:0 ""
- army_of_many_banners:0 "Army of Many Banners"
- desc_army_of_many_banners:0 ""
- 
- 
- 
  
  sloots_colonizer:0 "Colonial Investments"
  desc_sloots_colonizer:0 "Go forth and prosper."
