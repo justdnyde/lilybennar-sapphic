@@ -810,7 +810,8 @@ evocation_2_centaur_black_herd_5_spell_three_quarter = { picture = "evocation_mo
 
 ### Abjuration
 abjuration_0_combat_ward_mod = {
-	own_territory_dice_roll_bonus = 1
+	# own_territory_dice_roll_bonus = 1 - submod, too good for how cheap it is
+	shock_damage_received = -0.1
 	picture = "war_magic"
 }
 abjuration_1_ward_mod_0 = {
@@ -856,8 +857,8 @@ abjuration_2_mage_armor_mod_buffed = {
 }
 abjuration_3_field_of_forbiddance_cooldown_mod = {}
 abjuration_3_field_of_forbiddance_local_mod = {
-	min_local_autonomy = -40
-	local_manpower_modifier = 1
+	min_local_autonomy = -20 # submod
+	local_manpower_modifier = 0.5 # submod
 	local_tax_modifier = 2
 	local_development_cost = -0.1
 	picture = "abjuration_mod_icon_spell_modifier"
@@ -961,20 +962,24 @@ is_scrying_mod_buffed = {
 	picture = "divination_mod_icon_spell_modifier"
 }
 divination_2_manipulated_fortune_mod = {
-	global_attacker_dice_roll_bonus = 1
+	#global_attacker_dice_roll_bonus = 1 submod nerf
+	discipline = 0.025
 	picture = "war_magic"
 }
 divination_2_manipulated_fortune_mod_buffed = {
-	global_attacker_dice_roll_bonus = 1
-	global_defender_dice_roll_bonus = 1
+	#global_attacker_dice_roll_bonus = 1
+	#global_defender_dice_roll_bonus = 1
+	discipline = 0.5
 	picture = "war_magic"
 }
 divination_3_foresight_mod = {
 	all_power_cost = -0.1
+	development_cost = 0.05 # submod
 	picture = "divination_mod_icon_spell_modifier"
 }
 divination_3_foresight_mod_buffed = {
 	all_power_cost = -0.15
+	development_cost = 0.1 # submod
 	picture = "divination_mod_icon_spell_modifier"
 }
 

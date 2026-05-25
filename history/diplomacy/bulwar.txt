@@ -90,12 +90,13 @@ dependency = {
 }
 
 #Elizna - Drolakand
-vassal = {
-	first = U05
-	second = F32
-	start_date = 1444.1.1
-	end_date = 1500.1.1
-}
+# SUBMOD - remove elizna vassal
+#vassal = {
+#	first = U05
+#	second = F32
+#	start_date = 1444.1.1
+#	end_date = 1500.1.1
+#}
 
 #Varamhar - Akalses
 vassal = {
